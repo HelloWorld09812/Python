@@ -1,5 +1,6 @@
 n_1 = int(input())
 n_2 = int(input())
+
 action = input()
 
 if action == '+':
