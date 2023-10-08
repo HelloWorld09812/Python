@@ -7,7 +7,6 @@ def print_digit_sum(num):
         num //= 10
     print(sum(s))
         
-
 # считываем данные
 num = int(input())
 
