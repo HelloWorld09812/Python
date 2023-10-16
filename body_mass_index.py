@@ -1,4 +1,5 @@
 #a
+
 mass, height = float(input()), float(input())
 
 body_mass_index = mass / (height * height)
