@@ -3,6 +3,7 @@ n_2 = int(input())
 
 action = input()
 
+
 if action == '+':
     print(n_1 + n_2)
 elif action == '-':
