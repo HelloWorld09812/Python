@@ -1,3 +1,4 @@
+
 # объявление функции
 def print_digit_sum(num):
     s = []
